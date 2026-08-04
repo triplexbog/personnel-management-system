@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Restored NuGet packages
+packages/
+*.nupkg
+
+# Local application data and uploaded documents
+Documents/
+Achievements/
+*.pdf
+
+# Database backups and exports
+*.bacpac
+*.bak
+*.dump
+
+# Local configuration overrides and secrets
+.env
+.env.*
+secrets.json
+
+# OS files
+.DS_Store
+Thumbs.db
